@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class CameraShake : MonoBehaviour {
+public class CameraShake: MonoBehaviour {
 
   public float shakeDecay = 0.002f;
   public float intensity = .3f;
